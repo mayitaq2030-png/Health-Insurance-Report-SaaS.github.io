@@ -48,6 +48,7 @@ Strategic Thinking: Translating technical metrics into business recommendations 
 ### Results & Business Recommendations:
 
 [Dashborad Executive Analytics ](https://gemini.google.com/share/f222cb950cac)
+
 [Dashborad Insurance Portfolio Intelligence](https://gemini.google.com/share/daab9259b0f4)
 
 <img width="1324" height="539" alt="image" src="https://github.com/user-attachments/assets/9df0c1ae-fba7-45a9-8dc5-69b2a5003fe7" />
