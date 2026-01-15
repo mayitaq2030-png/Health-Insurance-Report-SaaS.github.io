@@ -47,7 +47,10 @@ Strategic Thinking: Translating technical metrics into business recommendations 
 
 ### Results & Business Recommendations:
 
-<img width="682" height="402" alt="image" src="https://github.com/user-attachments/assets/4e8fccb5-c565-48b9-aee1-995ec12d0dd8" />
+[Dashborad Executive Analytics ](https://gemini.google.com/share/f222cb950cac)
+[Dashborad Insurance Portfolio Intelligence](https://gemini.google.com/share/daab9259b0f4)
+
+<img width="1324" height="539" alt="image" src="https://github.com/user-attachments/assets/9df0c1ae-fba7-45a9-8dc5-69b2a5003fe7" />
 
 <p align="justify">
 SME Segment as an Anchor: Small and Medium Enterprises were identified as having a projected renewal rate of 92%, making it the most stable segment for expansion.
