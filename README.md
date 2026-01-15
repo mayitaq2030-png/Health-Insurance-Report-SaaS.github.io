@@ -2,7 +2,7 @@
 
 ### Executive Summary:
 
-<p align ="justify"> This project presents a comprehensive analysis of a 100-policy insurance portfolio in the U.S. market, covering Life, Auto, SME (Small and Medium Enterprises), Home, and Travel lines of business. The analysis revealed a collection efficiency of 85.1% and a cancellation (churn) rate of 35%. Through an interactive dashboard inspired by Power BI, a total of $10,870 USD in revenue leakage was identified. Consequently, a strategic roadmap was designed to mitigate default risks and improve operational quality in policy issuance. </p>
+<p align ="justify"> This project presents a comprehensive analysis of a 100-policy insurance portfolio in the U.S. market, covering Life, Auto, SME (Small and Medium Enterprises), Home, and Travel lines of business. The analysis revealed a collection efficiency of 85.1% and a cancellation (churn) rate of 35%. Through an interactive dashboard, a total of $10,870 USD in revenue leakage was identified. Consequently, a strategic roadmap was designed to mitigate default risks and improve operational quality in policy issuance. </p>
 
 ### Business Problem:
 
